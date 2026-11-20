@@ -1,0 +1,6 @@
+/assets/*.mjs
+  Content-Type: application/javascript
+/media/*
+  Cache-Control: public, max-age=604800
+/docs/*
+  Cache-Control: public, max-age=604800
